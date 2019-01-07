@@ -29,5 +29,3 @@ do {
 return array;
 }
 
-do_while_arr = ['a','b','c'];
-console.log(doWhileLoop(do_while_arr))
